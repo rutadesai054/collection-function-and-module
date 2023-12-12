@@ -1,0 +1,2 @@
+How can you get a random number in python? 
+-->Random integer values can be generated with the randint() function. This function takes two arguments: the start and the end of the range for the generated integer values. Random integers are generated within and including the start and end of range values, specifically in the interval [start, end].

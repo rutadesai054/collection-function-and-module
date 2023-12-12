@@ -1,0 +1,18 @@
+What is tuple? Difference between list and tuple.
+
+-->
+1> Mutability:
+List: Lists are mutable, which means you can modify their contents by adding or removing elements, or by changing the values of existing elements. You can use methods like append(), extend(), insert(), remove(), or indexing to modify a list.
+Tuple: Tuples are immutable, meaning once a tuple is created, you cannot modify its contents. You cannot add, remove, or change elements in a tuple after it has been defined.
+
+2> Syntax:
+List: Defined using square brackets [], e.g., my_list = [1, 2, 3].
+Tuple: Defined using parentheses (), e.g., my_tuple = (1, 2, 3).
+
+3> Use Cases:
+List: Use lists when you need a collection of elements that may need to be modified during the program's execution. Lists are suitable for sequences of items where the order and the ability to change them are important.
+Tuple: Use tuples when you want an immutable, ordered collection of elements. Tuples are useful when the data should not be modified or when you want to use the collection as a key in a dictionary (since keys must be immutable).
+
+4> Performance:
+List: Due to their mutability, lists may consume more memory and have a slightly slower performance compared to tuples.
+Tuple: Tuples are generally more memory-efficient and can offer better performance in situations where immutability is an advantage

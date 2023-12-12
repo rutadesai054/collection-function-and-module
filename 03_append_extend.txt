@@ -1,0 +1,11 @@
+Differentiate between append () and extend () methods? 
+-->append() method:
+The append() method is used to add a single element to the end of a list.
+It takes one argument, which is the element you want to add.
+The element is added as a single item to the end of the list.
+
+-->extend() method:
+The extend() method is used to append the elements of an iterable (such as a list, tuple, or string) to the end of the list.
+It takes an iterable as its argument and adds its elements to the list.
+The individual elements of the iterable are added to the list, not the iterable itself.
+

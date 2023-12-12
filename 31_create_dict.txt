@@ -1,0 +1,2 @@
+How will you create a dictionary using tuples in python? 
+-->Print the original tuples using the print() function and str() function to convert them into strings. Check if the length of both tuples is equal using the len() function. If the length of both tuples is equal, use dictionary comprehension to create a dictionary

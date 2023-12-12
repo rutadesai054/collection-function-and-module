@@ -1,0 +1,6 @@
+How will you remove last object from a list? 
+-->pop() method:
+The pop() method removes and returns the last element from a list. If you don't need the removed element, you can simply call pop() without assigning it to a variable.
+
+-->slicing method:
+You can also use slicing to create a new list excluding the last element.

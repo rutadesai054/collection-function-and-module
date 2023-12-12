@@ -1,0 +1,6 @@
+How will you randomizes the items of a list in place? 
+-Use the import keyword to import the random     module.
+-Create a variable to store the input list.
+-Print the input list.
+-Use the random. shuffle() function to shuffle all the list elements randomly by passing the list as an argument to it.
+-Print the resultant shuffled list.

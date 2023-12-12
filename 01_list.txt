@@ -1,0 +1,11 @@
+What is List? How will you reverse a list?
+-->In programming, a list is a data structure that stores an ordered collection of elements. Lists are commonly used in various programming languages and are versatile for holding items such as numbers, strings, or other data types.
+To reverse a list, you can use different approaches depending on the programming language. I'll provide examples in Python, one of the popular programming languages:
+
+reverse method:
+-->n Python, lists have a built-in method called reverse() that can be used to reverse the elements of a list in-place
+
+slicing method:
+-->Another way to reverse a list in Python is by using slicing. This method creates a new reversed list without modifying the original list:
+
+
